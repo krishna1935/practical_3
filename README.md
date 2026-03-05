@@ -12,14 +12,14 @@
 </tr>
 
 <tr>
-<td>Tirth</td>
-<td>202504104610053</td>
+<td>Krishna Patel</td>
+<td>202504104610139</td>
 <td>Set B</td>
 </tr>
 
 <tr>
-<td>Mujahid</td>
-<td>202504104610054</td>
+<td>Ronak Patel</td>
+<td>202504104610138</td>
 <td>Set A</td>
 </tr>
 
